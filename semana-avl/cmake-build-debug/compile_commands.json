@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/mynor/OneDrive/Documentos/Tarea X - AVL/semana-avl/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/mynor/OneDrive/Documentos/Tarea X - AVL/semana-avl/src\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\semana_avl.dir\\src\\main.cpp.obj -c \"C:\\Users\\mynor\\OneDrive\\Documentos\\Tarea X - AVL\\semana-avl\\src\\main.cpp\"",
+  "file": "C:/Users/mynor/OneDrive/Documentos/Tarea X - AVL/semana-avl/src/main.cpp",
+  "output": "C:/Users/mynor/OneDrive/Documentos/Tarea X - AVL/semana-avl/cmake-build-debug/CMakeFiles/semana_avl.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/mynor/OneDrive/Documentos/Tarea X - AVL/semana-avl/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -I\"C:/Users/mynor/OneDrive/Documentos/Tarea X - AVL/semana-avl/src\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\semana_avl.dir\\src\\AVL.cpp.obj -c \"C:\\Users\\mynor\\OneDrive\\Documentos\\Tarea X - AVL\\semana-avl\\src\\AVL.cpp\"",
+  "file": "C:/Users/mynor/OneDrive/Documentos/Tarea X - AVL/semana-avl/src/AVL.cpp",
+  "output": "C:/Users/mynor/OneDrive/Documentos/Tarea X - AVL/semana-avl/cmake-build-debug/CMakeFiles/semana_avl.dir/src/AVL.cpp.obj"
+}
+]

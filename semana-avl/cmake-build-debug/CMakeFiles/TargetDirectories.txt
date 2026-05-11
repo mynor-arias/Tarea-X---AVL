@@ -1,0 +1,3 @@
+C:/Users/mynor/OneDrive/Documentos/Tarea X - AVL/semana-avl/cmake-build-debug/CMakeFiles/semana_avl.dir
+C:/Users/mynor/OneDrive/Documentos/Tarea X - AVL/semana-avl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mynor/OneDrive/Documentos/Tarea X - AVL/semana-avl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
